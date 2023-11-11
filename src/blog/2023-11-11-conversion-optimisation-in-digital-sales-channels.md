@@ -3,7 +3,7 @@ title: Conversion optimisation in digital sales channels
 description: Get your CRO going with step by step guide – from measurable
   hypotheses to concrete learnings.
 author: Antton Ikola
-date: 2023-11-11T13:02:37.869Z
+date: 2020-09-19T12:02:37.869Z
 tags:
   - post
 image: /assets/blog/ab_tes.jpg
