@@ -18,7 +18,6 @@ collections:
       - {label: "Author", name: "author", widget: "string" }
       - {label: "Date", name: "date", widget: "datetime" }
       - {label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - {label: "Title", name: "title", widget: "string" }
       - {label: "Featured image", name: "image", widget: "image" }
       - {label: "Image Alt", name: "imageAlt", widget: "string" }
       - {label: "Body", name: "body", widget: "markdown" }
