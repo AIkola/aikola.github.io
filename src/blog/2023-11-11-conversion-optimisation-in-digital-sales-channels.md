@@ -1,0 +1,68 @@
+---
+title: Conversion optimisation in digital sales channels
+description: Get your CRO going with step by step guide – from measurable
+  hypotheses to concrete learnings.
+author: Antton Ikola
+date: 2023-11-11T13:02:37.869Z
+tags:
+  - post
+image: /assets/blog/ab_tes.jpg
+imageAlt: "To test or not is not the question. The question is: A or B? "
+---
+Conversion rate optimisation (CRO) is an important part of growth hacking, but it’s in no way all that a growth hacker does. Conversion rate optimisation aims at increasing conversions in some part of the funnel – typically in a purchase funnel. Conversion rate optimisation is approached with A/B-testing tools and methods.
+
+The main idea is to be able to validate new ideas with data and metrics that actually matter to the business, such as revenue impact, instead of trusting the trendiest tricks in the book or going with the highest paid person’s opinion.
+
+In A/B-testing the idea is to put two variants compete against each other and measure each variants impact on sales, or whatever you wish to measure. Variant A represents the current state, and variant B is a “challenger” that is based on an educated hypothesis of how it might affect user behaviour and the metrics, such as conversions, we’re trying to optimise.
+
+## A/B-testing correctly is hard, but important
+
+A/B-testing allows you to take small steps when gradually developing a service into the right direction all the while reducing uncertainty. When you’re trying to optimise a service, digital or not, you’re essentially dealing with a huge set of unknowns. The truth is, more often than not, we have a very fuzzy picture of how a service should be developed. Making far-reaching development plans is not usually the best, because the underlying needs might develop faster than you are able to develop.
+
+Being data-driven can be gruesome for people who design and implement the actual tests because you need to be prepared to throw away the poorly performing variant-based on the data. When a test has gathered some data to show a meaningful difference, whether statistically valid or not, the test is usually concluded for the win of either A or B. In a simple A/B-test of just one challenger variant, you’ll still “waste” at least 50% of your work. But that’s exactly what you want to do: separate the wheat from the chaff.
+
+If done “by the book,” an A-B-test challenger should only change one variable in the original at any one time. If you want to test, for example, the placement of an element and a different copy text at the same time, you have to do four different variants (2^2). If you’d like to test three different variants, the amount of test variants is already eight (2^3).
+
+## With data, you get what you measure
+
+Data can have its limitations: it might be impartial and have errors. Google Analytics data isn’t perfect, and make sure you adopt a certain level of a paranoid attitude before you start acting on that data. The data is always modelled in some way, and we need to understand that we get what we measure.
+
+At the end of the day, you have a sample of data which represents only some limited selection of customer behaviour, not all of the customer base. Thus, all results are probabilities, not absolute truths, and cannot be extrapolated over the whole customer base. 50% of customers might prefer the variant B while 5% actually have an adverse effect to it. The total impact rules here.
+
+## Basic principles of conversion rate optimisation
+
+1. Decide what is important to measure
+2. Know what you can actually measure
+3. Understand the limitations of measuring and data
+
+The possible sources to ideate new hypothesis are many. You might check the analytics data and recognise a bottleneck in some phase of the checkout process, for example. Then you might wonder why a drop in conversions occurs: Are there obvious conversion killers? What should be added or removed to convey more trust? What might annoy the customer? You might look for benchmarks inside and outside your specific industry from known high-performing purchase processes. These sources might be the quick wins.
+
+Once you have figured out an important element or phase of the buying process to test, you want to create a measurable hypothesis, for example with the following formula:
+
+Based on *⟨ the conversion rate in one phase of the purchase journey ⟩*, we believe that *⟨ a specific checkout element ⟩* is causing *⟨ mistrust among customers ⟩*. By *⟨ providing a transparent way to show prices in this phase ⟩*, we believe we can raise *⟨ the overall conversion rate of the buying process ⟩*. We will measure this with *⟨ an overall conversion rate ⟩*.
+
+Limiting the influences of variants you cannot control is important. Usually, this means that for A/B-tests the traffic is randomly distributed for each variant. Other things to take into consideration is that the test time-period should be long enough. Seasonality of the business and marketing activities happening in various channels might have a big impact on the quality of traffic.
+
+Once the test is made, it should be considered that the change should be so big, that it actually creates a measurable impact on customer behaviour, but so small, that only a single variable is changed. It doesn’t make sense to make an A/B-test of a three-step purchase funnel against a 20-step purchase funnel. Even though you would get measurable results, you would not know how exactly what happened, because you changed too many things. The worst thing that can happen, is that you get an insignificant result in a poorly constructed test and don’t continue with A/B-testing further.
+
+Learning from the results is easy if you have a well-defined hypothesis to start with. Once the results are in, you generally run with what has worked in terms of expected impact. You don’t change the criteria later, although there’s always room for speculation. Of course, you should learn more about making better hypotheses as well. Once you know which variant works, you can build on that and make new hypotheses. Why did the new variant work better? Can we scale that dynamic even more? Use the learnings and new insights to create new hypotheses and more A/B-tests.
+
+## Action steps of conversion rate optimisation
+
+1. Design an educated and measurable hypothesis
+2. Limit the influences of variables you cannot control
+3. Make the test and wait for interpretable results
+4. Learn from the results
+5. Use learnings to design a new hypothesis
+
+## Getting those tests going
+
+You can usually run only one test at a time in a given purchase process and a decent test period might vary from one to four weeks. If you have enough traffic, you might be able to make 50-plus tests per year. Just imagine the cumulative effect of 50 A/B-tests on your revenue.
+
+How about making your first educated and measurable hypothesis right now?
+
+Based on ⟨ data/feedback ⟩, we think that ⟨ change x ⟩ will cause an ⟨ outcome  ⟩ which we will measure with ⟨ metrics ⟩.
+
+For example, your hypothesis could look like this:
+
+Based on ⟨ qualitative findings ⟩ in the current checkout flow, we think that ⟨ changing the placement of the purchase button ⟩ will cause ⟨ an improvement in coversion rate ⟩. We will measure this by the ⟨ number of acquired conversions ⟩.
