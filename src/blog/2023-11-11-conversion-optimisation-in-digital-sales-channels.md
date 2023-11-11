@@ -6,7 +6,6 @@ author: Antton Ikola
 date: 2020-09-19T12:02:37.869Z
 tags:
   - post
-  - featured
 image: /assets/blog/ab_tes.jpg
 imageAlt: "To test or not is not the question. The question is: A or B? "
 ---
