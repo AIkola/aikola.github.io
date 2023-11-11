@@ -11,6 +11,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/style.css">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <header class="page-header">
@@ -29,6 +30,9 @@
             </li>
             <li>
               <a href="/blog/">Blog</a>
+            </li>
+            <li>
+              <a href="/about">About</a>
             </li>
           </ul>
         </nav>
@@ -49,5 +53,16 @@
     <p>© 2023 Antton Ikola</p>
   </footer>  
     <script src="" async defer></script>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
