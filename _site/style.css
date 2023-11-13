@@ -5,9 +5,13 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-body: "Archivo", serif;
+  --ff-heading: "Tiempos Text",Georgia,"Times New Roman";
+  --ff-headline: "Tiempos Text",Georgia,"Times New Roman";
+  --ff-blog-body: "Tiempos Text",Georgia,"Times New Roman";
+  --ff-blog-headline: "Archivo", serif;
 
+  --fw-200: 200;
   --fw-400: 400;
   --fw-700: 700;
   --fw-900: 900;
@@ -82,6 +86,7 @@ body {
 /* A elements that don't have a class get default styles */
 a:not([class]) {
   text-decoration-skip-ink: auto;
+  color:  hsla(169, 100%, 39%, 1);
 }
 
 /* Make images easier to work with */
@@ -95,6 +100,11 @@ picture {
     min-width: 100px;
     max-width: 300px;
     width: 80%;
+}
+
+.footer-logo{
+  width: 60px;
+  display: inline-block;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -128,7 +138,17 @@ select {
 body {
   font-family: var(--ff-body);
   font-size: var(--fs-400);
+  font-weight: var(--fw-400);
   color: var(--clr-neutral-900);
+}
+
+.blog-container p, li{
+  font-family: var(--ff-blog-body);
+}
+
+.blog-container h2{
+  font-family: var(--ff-blog-headline);
+  font-weight: var(--fw-700);
 }
 
 h1,
@@ -145,7 +165,7 @@ strong {
 
 section,
 .section {
-  padding: min(10vh, 10em) 0;
+  padding: min(5vh, 10em) 0;
 }
 
 
@@ -178,6 +198,11 @@ section,
   gap: var(--gap, 1em);
 }
 
+.flex-group-nav {
+  display: flex;
+  gap: var(--gap, 1em);
+}
+
 .text-center {
   text-align: center;
 }
@@ -191,6 +216,7 @@ section,
 
 .article-title {
   font-size: var(--fs-700);
+  margin: 3rem 0;
 }
 
 .section-title {
@@ -255,6 +281,7 @@ section,
   width: 100%;
   /* max-height: max(15rem, 40vh); */
   object-fit: cover;
+  border-radius: 30px;
 }
 
 @media (min-width: 45em) {

@@ -1,33 +1,23 @@
 ---
  layout: base.njk
- title: About Antton Ikola
+ title: About me - Antton Ikola
+ description: Antton Ikola's professional qualifications and work experience
 ---
-      
-<section class="hero">
-  <div class="container flow">
-      <div class="hero__content flow">
-        <h1 class="section-title">It's all about Digital Growth</h1>
-        <p>I use this space to document my adventures in digital sales business development, sharing how I’ve overcome issues I’ve run into, useful resources, and more.</p>
-        <p>Below are some of my favourite articles, or you can go to the blog page to see my most recent posts.</p>
-        <div class="flex-group">
-          <a href="#featured-articles" class="btn btn--primary">Featured articles</a>
-          <a href="./blog" class="btn btn--neutral">Most recent articles</a>
-        </div>
-      </div>
-      <div>
-        <img src="//unsplash.it/510" alt="" class="hero__image">
-      </div>
-  </div>
-</section>
 
-<section id="featured-articles" class="featured-articles">
-  <div class="container flow">
-    <h2 class="section-title text-center ">Featured articles</h2>
-    <p class="text-center">Here is a sample of articles which I feel give you a good idea of what this site is all about.</p>
-    <ul role="list" class="articles__list flow">
-      {%- for post in collections.featured reversed -%}
-        {% include 'article-snippet.njk'  %}
-      {%- endfor -%}
-    </ul>
-  </div>
-</section>
+    <div class="section container">
+    <h1 class="section-title">Antton Ikola</h1><br>
+    <p>About me</p><br>
+    <img style="border-radius: 20px;" width="500" class="header-image" src="/assets/gh101.webp" alt="Photo of Me" class="header-image">
+    <p> <br>
+        I help companies to increase revenue by acquiring, engaging and retaining their customers in digital channels.
+        <br><br>
+        I work with B2B and B2C businesses who have recognized the importance of customer experience as a key driver for sustainable growth and customer loyalty.
+        <br>
+        I am inspired to help companies in:<br>
+        1) coming up with unique digital growth strategies<br>
+        2) building the needed competences for modern digital sales<br>
+        3) defining processes and choosing the right technologies that enable agile growth in digital channels.
+        <br><br>
+        I strive to create measurable business impact with every organisation I work with.
+    </p>
+</div>
