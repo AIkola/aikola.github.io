@@ -6,6 +6,7 @@ author: Antton Ikola
 date: 2019-01-12T12:26:03.893Z
 tags:
   - post
+  - featured
 image: /assets/blog/analytics_featured_image.jpg
 imageAlt: Don't let the shiny tools or bright colors fool you, analytics is
   ultimately about building skills and discovering meaning.
