@@ -91,6 +91,12 @@ picture {
   display: block;
 }
 
+.logo{
+    min-width: 100px;
+    max-width: 300px;
+    width: 80%;
+}
+
 /* Inherit fonts for inputs and buttons */
 input,
 button,
