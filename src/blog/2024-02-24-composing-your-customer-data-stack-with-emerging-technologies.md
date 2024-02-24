@@ -10,6 +10,7 @@ author: Antton Ikola
 date: 2022-06-15T09:12:00.000Z
 tags:
   - post
+  - featured
 image: /assets/blog/article-5.jpg
 imageAlt: person typing on computer
 ---
