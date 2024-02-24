@@ -9,6 +9,8 @@ date: 2023-02-23T10:12:00.000Z
 tags:
   - post
   - featured
+  - martech
+  - enterprise architecture
 image: /assets/blog/cat_cutting_costs.jpeg
 imageAlt: cat cutting costs
 ---
