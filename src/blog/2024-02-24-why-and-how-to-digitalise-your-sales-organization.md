@@ -10,6 +10,7 @@ author: Antton Ikola
 date: 2023-08-29T11:44:00.000Z
 tags:
   - post
+  - featured
 image: /assets/blog/on_the_fence.jpeg
 imageAlt: there is a fence and on one side the nature is dull and grey and the
   other side is green and lush
