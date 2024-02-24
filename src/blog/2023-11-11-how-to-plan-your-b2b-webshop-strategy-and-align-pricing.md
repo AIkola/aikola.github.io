@@ -6,7 +6,7 @@ author: Antton Ikola
 date: 2020-02-11T12:46:44.067Z
 tags:
   - post
-image: /assets/blog/b2becom.jpg
+image: /assets/blog/warehouse-cat.jpeg
 imageAlt: Sales and pricing strategies in ecommerce depend on the deal amounts
   and values involved.
 ---

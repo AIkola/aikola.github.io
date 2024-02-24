@@ -1,7 +1,6 @@
 ---
 title: Composing your Customer Data Stack with emerging technologies
-description: Questions related to activating customer data can quickly become
-  overwhelming. Enterprise customer data stacks have accumulated layers over the
+description: Enterprise customer data stacks have accumulated layers over the
   years, leaving teams often not even knowing what lives in it. This article
   aims to bring clarity to your thinking by understanding what are the emerging
   technologies such as Customer Data Platforms (CDP) and what these technologies
@@ -11,7 +10,7 @@ date: 2022-06-15T09:12:00.000Z
 tags:
   - post
   - featured
-image: /assets/blog/screenshot-2024-02-24-at-9.53.19.png
+image: /assets/blog/cdp-architecture.jpg
 imageAlt: CDP definition
 ---
 ## WHAT IS A CUSTOMER DATA PLATFORM?
