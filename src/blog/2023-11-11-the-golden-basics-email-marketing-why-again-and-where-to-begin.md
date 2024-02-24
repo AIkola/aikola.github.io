@@ -1,5 +1,5 @@
 ---
-title: "The Golden Basics Email Marketing: Why again and where to begin"
+title: "Email Marketing: Why it will not go away and where you can begin"
 description: Email is still a prevalent channel to market and communicate in the
   western world. Revisit the basics to get going again.
 author: Antton Ikola
