@@ -11,7 +11,7 @@ date: 2022-06-15T09:12:00.000Z
 tags:
   - post
   - featured
-image: /assets/blog/screenshot-2024-02-24-at-9.53.19.png
+image: /assets/blog/cdp-architecture.jpg
 imageAlt: CDP definition
 ---
 ## WHAT IS A CUSTOMER DATA PLATFORM?
