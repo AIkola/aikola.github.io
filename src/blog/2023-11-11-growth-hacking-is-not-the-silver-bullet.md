@@ -7,7 +7,7 @@ author: Antton Ikola
 date: 2019-09-10T11:41:15.469Z
 tags:
   - post
-image: /assets/blog/growth_work.jpg
+image: /assets/blog/cat-in-a-lab.jpeg
 imageAlt: Growth hacking is not about "hacks", but making sure you utilise a
   broad set of skills and insights.
 ---
