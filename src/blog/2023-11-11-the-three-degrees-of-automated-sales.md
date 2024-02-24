@@ -1,12 +1,12 @@
 ---
-title: The three degrees of automated sales
+title: Three degrees of automated sales
 description: Sales automation is still in its early days. Companies can get
   ahead by identifying relevant use cases and starting experimenting.
 author: Antton Ikola
 date: 2020-09-19T12:09:47.399Z
 tags:
   - post
-image: /assets/blog/selling_ice.png
+image: /assets/blog/3cats.jpeg
 imageAlt: Many times sales is not helped by efficiency, but effectiveness.
 ---
 It’s still early days for sales automation. But by experimenting now with use cases based on real business needs, companies can already get ahead of their competitors.
