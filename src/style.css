@@ -307,10 +307,18 @@ section,
     margin-bottom: 3rem;
   }
 
+  .main-article__figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+
+  }
+
   .main-article__figure figcaption {
     margin: 1rem 0;
     font-size: var(--fs-300);
-    opacity: .9;
+    opacity: 0;
   }
 
 /* //////////////////////
